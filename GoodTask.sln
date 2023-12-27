@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodTask", "GoodTask.csproj", "{1BED1A03-92ED-486C-8A3C-936546B32B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BED1A03-92ED-486C-8A3C-936546B32B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BED1A03-92ED-486C-8A3C-936546B32B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BED1A03-92ED-486C-8A3C-936546B32B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BED1A03-92ED-486C-8A3C-936546B32B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BF710E-78B1-4FA6-8394-16F3E33D8B42}
+	EndGlobalSection
+EndGlobal
